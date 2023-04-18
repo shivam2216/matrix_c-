@@ -1,10 +1,7 @@
-
-
-
-
-
-
-
+// This code is used for applying operation on matrices.
+//First:
+//      Give number of rows and columns as r and s.
+//      Enter the elemnts and enjoy the operations
 
 #include<iostream>
 
