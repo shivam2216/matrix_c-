@@ -3,6 +3,10 @@
 //      Give number of rows and columns as r and s.
 //      Enter the elemnts and enjoy the operations
 
+
+
+
+
 #include<iostream>
 
 using namespace std;
